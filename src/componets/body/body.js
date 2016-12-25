@@ -7,7 +7,7 @@ class Body extends Component {
         return (
             <div className="body">
                 <h2>hello world</h2>
-                <Form/>
+                <Form name='Form name'/>
             </div>
         );
     }
